@@ -11,7 +11,7 @@ O-minimalité et ses liens avec la théorie des modèles, la geometrie réelle, 
 [Phénomènes oscillatoires et o-minimalité](https://webusers.imj-prg.fr/~tamara.servi/oscillatory.html)
 
 **Preprints**  
-Sur [ArXiv](https://arxiv.org/find/math/1/au:+Servi_T/0/1/0/all/0/1)
+[\\]: # Sur [ArXiv](https://arxiv.org/find/math/1/au:+Servi_T/0/1/0/all/0/1)
 
 **Publications**  
 Sur [Mathscinet](https://mathscinet-ams-org.ezproxy.math-info-paris.cnrs.fr/mathscinet/search/publications.html?pg1=INDI&s1=728736)
