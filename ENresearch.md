@@ -11,7 +11,7 @@ O-minimality and its connections to Model Theory, Real Geometry, Dynamical Syste
 1.  [Oscillatory phenomena and o-minimality](https://webusers.imj-prg.fr/~tamara.servi/oscillatory.html)
 
 **Preprints**  
-[\\]: # On [ArXiv](https://arxiv.org/find/math/1/au:+Servi_T/0/1/0/all/0/1)
+[//]: # On [ArXiv](https://arxiv.org/find/math/1/au:+Servi_T/0/1/0/all/0/1)
 
 **Publications**  
 On [Mathscinet](https://mathscinet-ams-org.ezproxy.math-info-paris.cnrs.fr/mathscinet/search/publications.html?pg1=INDI&s1=728736)
