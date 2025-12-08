@@ -36,5 +36,4 @@ o-minimal geometry and, more generally, “tame geometry“: resolution of singu
 **Publications**  
 On [Mathscinet](https://mathscinet-ams-org.ezproxy.math-info-paris.cnrs.fr/mathscinet/search/publications.html?pg1=INDI&s1=728736)
 
-**Preprints**  
-[//]: # On [ArXiv](https://arxiv.org/find/math/1/au:+Servi_T/0/1/0/all/0/1)
+**Preprints**
