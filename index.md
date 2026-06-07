@@ -9,17 +9,16 @@ layout: ENindex
 </center>
 
 **Current position**  
-Lecturer at Université Paris Cité  
-Deputy director of the Logic team
+Lecturer at IMJ-PRG (UPC) and DMA (ENS-PSL)
+Director of the Logic Group at IMJ-PRG
+Member of the Algebra and Geometry group at DMA
 
 **e-mail**  
 <a href="mailto:tamara.servi(AT)imj-prg.fr">tamara.servi(AT)imj-prg.fr</a>
 
 **Office**  
-Sophie Germain Building, 6th floor, office 6022  
-
-You need a badge to access the 6th floor.  
-You can obtain a temporary badge at reception (ground floor), but you need to show some form of ID.
+Sophie Germain Building, 6th floor, office 6022
+Toits du DMA, office T12
 
 **Postal address**   
 Équipe de Logique Mathématique  
