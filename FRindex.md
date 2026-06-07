@@ -6,11 +6,14 @@ layout: FRindex
 <img src="/IMAGES/upc.png" width="28%" style="float:center">
 <img src="/IMAGES/imj-prg.png" width="28%" style="float:center">
 <img src="/IMAGES/cnrs.png" width="12%" style="float:center">
+<img src="/IMAGES/ENS2.png" width="12%" style="float:center">
 </center>
 
 **Position actuelle**   
 Maîtresse de conférences à l'IMJ-PRG (UPC) et au DMA (ENS-PSL)
+
 Responsable de l'Équipe de Logique à l'IMJ-PRG
+
 Membre de l'Équipe Algèbre et Géométrie au DMA
 
 **e-mail**  
@@ -18,6 +21,7 @@ Membre de l'Équipe Algèbre et Géométrie au DMA
 
 **Bureau**  
 Bâtiment Sophie Germain, 6ème étage, bureau 6022
+
 Tois du DMA, bureau T12
 
 **Adresse Postale**  
