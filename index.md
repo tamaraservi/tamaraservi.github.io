@@ -10,7 +10,9 @@ layout: ENindex
 
 **Current position**  
 Lecturer at IMJ-PRG (UPC) and DMA (ENS-PSL)
+
 Director of the Logic Group at IMJ-PRG
+
 Member of the Algebra and Geometry group at DMA
 
 **e-mail**  
@@ -18,6 +20,7 @@ Member of the Algebra and Geometry group at DMA
 
 **Office**  
 Sophie Germain Building, 6th floor, office 6022
+
 Toits du DMA, office T12
 
 **Postal address**   
