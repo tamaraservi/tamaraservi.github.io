@@ -6,6 +6,7 @@ layout: ENindex
 <img src="/IMAGES/upc.png" width="28%" style="float:center">
 <img src="/IMAGES/imj-prg.png" width="28%" style="float:center">
 <img src="/IMAGES/cnrs.png" width="12%" style="float:center">
+<img src="/IMAGES/ENS2.png" width="12%" style="float:center">
 </center>
 
 **Current position**  
