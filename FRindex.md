@@ -9,17 +9,16 @@ layout: FRindex
 </center>
 
 **Position actuelle**   
-Maître de conférences à l'Université Paris Cité  
-Responsable adjointe de l'Équipe de Logique
+Maîtresse de conférences à l'IMJ-PRG (UPC) et au DMA (ENS-PSL)
+Responsable de l'Équipe de Logique à l'IMJ-PRG
+Membre de l'Équipe Algèbre et Géométrie au DMA
 
 **e-mail**  
 <a href="mailto:tamara.servi(AT)imj-prg.fr">tamara.servi(AT)imj-prg.fr</a>
 
 **Bureau**  
 Bâtiment Sophie Germain, 6ème étage, bureau 6022
-
-Il faut un badge pour avoir accès au 6ème étage.
-On peut obtenir un badge temporaire à l'accueil du bâtiment (au RC) en montrant une pièce d'identité.
+Tois du DMA, bureau T12
 
 **Adresse Postale**  
 Équipe de Logique Mathématique  
